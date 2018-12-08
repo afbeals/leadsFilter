@@ -1,0 +1,23 @@
+{
+  "name": "leadsfilter",
+  "version": "1.0.0",
+  "description": "filter leads by id",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afbeals/leadsFilter.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Allan Beals-Gibson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afbeals/leadsFilter/issues"
+  },
+  "homepage": "https://github.com/afbeals/leadsFilter#readme",
+  "dependencies": {}
+}
